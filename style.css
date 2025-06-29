@@ -1,0 +1,10 @@
+p,h1,i  {
+	font-size: 30px;
+	color: blue;#25484d;
+	text-shadow: 3px 3px 6px rgb(0, 0, 0 / 1.0);
+}
+
+#main {
+	text-shadow: 0 4px 12px rgba( , 0, 0, 1.0);
+	color: lightblue ;
+}
